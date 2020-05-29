@@ -1,0 +1,27 @@
+.nav-out-padding0{
+    padding: 0em!important; 
+}
+
+.nav-out-margin0{
+    margin: 0em!important; 
+}
+
+.content-hight{
+    min-height: 20em!important;
+}
+
+.content-border{
+    border:0px!important;
+}
+
+.div-margin-bottom{
+    margin-bottom: 1em!important;
+}
+
+.div-margin-bottom-half{
+    margin-bottom: 0.5em!important;
+}
+
+.text-center{
+    text-align: center!important;
+}
